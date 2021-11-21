@@ -1,4 +1,16 @@
-### Hi there 👋
+
+# I am Andre!
+
+## I produce music
+- [Spotify](https://open.spotify.com/artist/1F2yc4dlYVfyNOUtMlnYRn)
+- [Soundcloud](https://soundcloud.com/norom)
+- [Youtube](https://www.youtube.com/user/NotNorom/)
+
+## I code
+- [Github](https://github.com/NotNorom/)
+
+## I make animations
+- [Twitter](https://twitter.com/_norom_)
 
 <!--
 **NotNorom/NotNorom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
